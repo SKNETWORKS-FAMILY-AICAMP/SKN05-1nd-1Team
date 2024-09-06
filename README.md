@@ -89,7 +89,7 @@ SK 네트웍스 AI과정 1차 프로젝트
 	4.	FAQ 및 서비스 센터 정보는 별도의 페이지에서 제공되고 검색 기능을 포함해야 한다.
 
 6. ERD (Entity-Relationship Diagram)
-
+![ERD 다이어그램](https://github.com/thanGyuPark/SKN05-1nd-1Team/blob/main/pj1erd.png)
 주요 테이블 구조:
 
 	1.	car_models: 차량 모델 정보
